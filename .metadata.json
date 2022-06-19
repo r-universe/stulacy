@@ -1,0 +1,10 @@
+[
+  {
+    "package": "epitab",
+    "oncran": true
+  },
+  {
+    "package": "rprev",
+    "oncran": true
+  }
+]
