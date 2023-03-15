@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "rprev"]
-	path = rprev
-	url = https://github.com/stulacy/rprev-dev
-	shallow = true
-	registered = true
 [submodule "epitab"]
 	path = epitab
 	url = https://github.com/stulacy/epitab
+	shallow = true
+	registered = true
+[submodule "rprev"]
+	path = rprev
+	url = https://github.com/stulacy/rprev-dev
 	shallow = true
 	registered = true
