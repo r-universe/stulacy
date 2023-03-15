@@ -1,10 +1,10 @@
 [
   {
-    "package": "epitab",
+    "package": "rprev",
     "oncran": true
   },
   {
-    "package": "rprev",
+    "package": "epitab",
     "oncran": true
   }
 ]
